@@ -19,6 +19,9 @@ body {
     background-size: cover;
     height: 100vh;
     width: 100vw;
+     background-image: url(midia/backgroundSmall.png);
+    background-attachment: fixed;
+    background-position: center;
 }
 
 header {
